@@ -1,0 +1,15 @@
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\bin\Debug\net6.0\tallerTp6.exe
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\bin\Debug\net6.0\tallerTp6.deps.json
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\bin\Debug\net6.0\tallerTp6.runtimeconfig.json
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\bin\Debug\net6.0\tallerTp6.dll
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\bin\Debug\net6.0\tallerTp6.pdb
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.csproj.AssemblyReference.cache
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.AssemblyInfoInputs.cache
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.AssemblyInfo.cs
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.csproj.CoreCompileInputs.cache
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.dll
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\refint\tallerTp6.dll
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.pdb
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\tallerTp6.genruntimeconfig.cache
+C:\TallerLenguajesC#\tp06-2022-SantiagoYalux\tallerTp6\tallerTp6\obj\Debug\net6.0\ref\tallerTp6.dll
